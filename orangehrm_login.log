@@ -1,0 +1,81 @@
+2025-07-03 10:56:40,439 - INFO - Open Browser - PASS - Chrome browser launched
+2025-07-03 10:56:58,271 - INFO - Navigate to URL - PASS - Navigated to https://opensource-demo.orangehrmlive.com/
+2025-07-03 10:57:02,691 - INFO - Check Title - PASS - Page title verified: OrangeHRM
+2025-07-03 10:57:05,104 - INFO - Submit Login - PASS - Submitted credentials
+2025-07-03 10:57:17,988 - INFO - Login Failed - FAIL - Login failed: Invalid credentials or user blocked. Screenshot: screenshots/orangehrm_login_failed_1751520437.png
+2025-07-03 10:57:20,185 - INFO - Close Browser - PASS - Browser closed
+2025-07-03 10:57:20,187 - INFO - HTML Report - PASS - Saved as reports/orangehrm_login_report.html
+2025-07-03 10:57:20,222 - INFO - Excel Report - PASS - Saved as reports/orangehrm_login_log.xlsx
+2025-07-03 10:57:20,223 - INFO - XML Report - PASS - Saved as reports/orangehrm_login_report.xml
+2025-07-03 11:03:24,992 - INFO - Open Browser - PASS - Chrome browser launched
+2025-07-03 11:03:28,968 - INFO - Navigate to URL - PASS - Navigated to https://opensource-demo.orangehrmlive.com/
+2025-07-03 11:03:28,977 - INFO - Check Title - PASS - Page title verified: OrangeHRM
+2025-07-03 11:03:29,886 - INFO - Submit Login - PASS - Submitted valid credentials
+2025-07-03 11:03:40,176 - INFO - Exception - FAIL - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7d0346f95+76917]
+	GetHandleVerifier [0x0x7ff7d0346ff0+77008]
+	(No symbol) [0x0x7ff7d00f9dea]
+	(No symbol) [0x0x7ff7d0150256]
+	(No symbol) [0x0x7ff7d015050c]
+	(No symbol) [0x0x7ff7d01a3887]
+	(No symbol) [0x0x7ff7d01784af]
+	(No symbol) [0x0x7ff7d01a065c]
+	(No symbol) [0x0x7ff7d0178243]
+	(No symbol) [0x0x7ff7d0141431]
+	(No symbol) [0x0x7ff7d01421c3]
+	GetHandleVerifier [0x0x7ff7d061d2cd+3051437]
+	GetHandleVerifier [0x0x7ff7d0617923+3028483]
+	GetHandleVerifier [0x0x7ff7d06358bd+3151261]
+	GetHandleVerifier [0x0x7ff7d036185e+185662]
+	GetHandleVerifier [0x0x7ff7d036971f+218111]
+	GetHandleVerifier [0x0x7ff7d034fb14+112628]
+	GetHandleVerifier [0x0x7ff7d034fcc9+113065]
+	GetHandleVerifier [0x0x7ff7d0336c98+10616]
+	BaseThreadInitThunk [0x0x7ffbda7de8d7+23]
+	RtlUserThreadStart [0x0x7ffbdba5c34c+44]
+. Screenshot: screenshots/orangehrm_unexpected_error_1751520820.png
+2025-07-03 11:03:42,410 - INFO - Close Browser - PASS - Browser closed
+2025-07-03 11:03:42,411 - INFO - HTML Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_report.html
+2025-07-03 11:03:42,445 - INFO - Excel Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_log.xlsx
+2025-07-03 11:03:42,446 - INFO - XML Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_report.xml
+2025-07-03 11:06:34,125 - INFO - Open Browser - PASS - Chrome browser launched
+2025-07-03 11:06:37,989 - INFO - Navigate to URL - PASS - Navigated to https://opensource-demo.orangehrmlive.com/
+2025-07-03 11:06:38,011 - INFO - Check Title - PASS - Page title verified: OrangeHRM
+2025-07-03 11:06:39,030 - INFO - Submit Login - PASS - Submitted valid credentials
+2025-07-03 11:06:45,661 - INFO - Close Browser - PASS - Browser closed
+2025-07-03 11:06:45,663 - INFO - HTML Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_report.html
+2025-07-03 11:06:45,719 - INFO - Excel Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_log.xlsx
+2025-07-03 11:06:45,721 - INFO - XML Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_report.xml
+2025-07-03 22:13:51,930 - INFO - Open Browser - PASS - Chrome browser launched
+2025-07-03 22:13:56,835 - INFO - Navigate to URL - PASS - Navigated to https://opensource-demo.orangehrmlive.com/
+2025-07-03 22:13:56,849 - INFO - Check Title - PASS - Page title verified: OrangeHRM
+2025-07-03 22:13:58,173 - INFO - Submit Login - PASS - Submitted valid credentials
+2025-07-03 22:14:08,741 - INFO - Exception - FAIL - Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff662e36f95+76917]
+	GetHandleVerifier [0x0x7ff662e36ff0+77008]
+	(No symbol) [0x0x7ff662be9dea]
+	(No symbol) [0x0x7ff662c40256]
+	(No symbol) [0x0x7ff662c4050c]
+	(No symbol) [0x0x7ff662c93887]
+	(No symbol) [0x0x7ff662c684af]
+	(No symbol) [0x0x7ff662c9065c]
+	(No symbol) [0x0x7ff662c68243]
+	(No symbol) [0x0x7ff662c31431]
+	(No symbol) [0x0x7ff662c321c3]
+	GetHandleVerifier [0x0x7ff66310d2cd+3051437]
+	GetHandleVerifier [0x0x7ff663107923+3028483]
+	GetHandleVerifier [0x0x7ff6631258bd+3151261]
+	GetHandleVerifier [0x0x7ff662e5185e+185662]
+	GetHandleVerifier [0x0x7ff662e5971f+218111]
+	GetHandleVerifier [0x0x7ff662e3fb14+112628]
+	GetHandleVerifier [0x0x7ff662e3fcc9+113065]
+	GetHandleVerifier [0x0x7ff662e26c98+10616]
+	BaseThreadInitThunk [0x0x7ffbda7de8d7+23]
+	RtlUserThreadStart [0x0x7ffbdba5c34c+44]
+. Screenshot: screenshots/orangehrm_unexpected_error_1751561048.png
+2025-07-03 22:14:11,418 - INFO - Close Browser - PASS - Browser closed
+2025-07-03 22:14:11,420 - INFO - HTML Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_report.html
+2025-07-03 22:14:11,482 - INFO - Excel Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_log.xlsx
+2025-07-03 22:14:11,483 - INFO - XML Report - PASS - Saved as E:\testing practice\sample\reports\orangehrm_login_report.xml

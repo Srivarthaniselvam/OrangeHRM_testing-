@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TestReport><Step><Timestamp>2025-07-03 22:13:51</Timestamp><Name>Open Browser</Name><Status>PASS</Status><Details>Chrome browser launched</Details></Step><Step><Timestamp>2025-07-03 22:13:56</Timestamp><Name>Navigate to URL</Name><Status>PASS</Status><Details>Navigated to https://opensource-demo.orangehrmlive.com/</Details></Step><Step><Timestamp>2025-07-03 22:13:56</Timestamp><Name>Check Title</Name><Status>PASS</Status><Details>Page title verified: OrangeHRM</Details></Step><Step><Timestamp>2025-07-03 22:13:58</Timestamp><Name>Submit Login</Name><Status>PASS</Status><Details>Submitted valid credentials</Details></Step><Step><Timestamp>2025-07-03 22:14:08</Timestamp><Name>Exception</Name><Status>FAIL</Status><Details>Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff662e36f95+76917]
+	GetHandleVerifier [0x0x7ff662e36ff0+77008]
+	(No symbol) [0x0x7ff662be9dea]
+	(No symbol) [0x0x7ff662c40256]
+	(No symbol) [0x0x7ff662c4050c]
+	(No symbol) [0x0x7ff662c93887]
+	(No symbol) [0x0x7ff662c684af]
+	(No symbol) [0x0x7ff662c9065c]
+	(No symbol) [0x0x7ff662c68243]
+	(No symbol) [0x0x7ff662c31431]
+	(No symbol) [0x0x7ff662c321c3]
+	GetHandleVerifier [0x0x7ff66310d2cd+3051437]
+	GetHandleVerifier [0x0x7ff663107923+3028483]
+	GetHandleVerifier [0x0x7ff6631258bd+3151261]
+	GetHandleVerifier [0x0x7ff662e5185e+185662]
+	GetHandleVerifier [0x0x7ff662e5971f+218111]
+	GetHandleVerifier [0x0x7ff662e3fb14+112628]
+	GetHandleVerifier [0x0x7ff662e3fcc9+113065]
+	GetHandleVerifier [0x0x7ff662e26c98+10616]
+	BaseThreadInitThunk [0x0x7ffbda7de8d7+23]
+	RtlUserThreadStart [0x0x7ffbdba5c34c+44]
+. Screenshot: screenshots/orangehrm_unexpected_error_1751561048.png</Details></Step><Step><Timestamp>2025-07-03 22:14:11</Timestamp><Name>Close Browser</Name><Status>PASS</Status><Details>Browser closed</Details></Step><Step><Timestamp>2025-07-03 22:14:11</Timestamp><Name>HTML Report</Name><Status>PASS</Status><Details>Saved as E:\testing practice\sample\reports\orangehrm_login_report.html</Details></Step><Step><Timestamp>2025-07-03 22:14:11</Timestamp><Name>Excel Report</Name><Status>PASS</Status><Details>Saved as E:\testing practice\sample\reports\orangehrm_login_log.xlsx</Details></Step></TestReport>
