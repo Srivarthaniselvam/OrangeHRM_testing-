@@ -13,13 +13,13 @@ This project automates the login functionality of the **[OrangeHRM Open Source D
   - `.log` text log file
 
 ## Project Summary
-Automates OrangeHRM login using Selenium in Python.
+ -- Automates OrangeHRM login using Selenium in Python.
 
-Validates title, credentials, and dashboard access.
+ -- Validates title, credentials, and dashboard access.
 
-Generates reports: HTML, Excel, XML, and logs.
+ -- Generates reports: HTML, Excel, XML, and logs.
 
-Captures screenshots for both success and failure.
+ -- Captures screenshots for both success and failure.
 
  ## Test Plan Points
 Objective: Test valid login functionality.
@@ -53,19 +53,19 @@ Exit Criteria: Dashboard header must be visible.
  - Error Handling Test	Handles exceptions and captures screenshots
 
 ## Why Components Are Used
-Selenium: Automates browser tasks.
+ - Selenium: Automates browser tasks.
 
-WebDriverWait: Ensures elements are loaded.
+ - WebDriverWait: Ensures elements are loaded.
 
-logging: Logs steps in .log file.
+ - logging: Logs steps in .log file.
 
-openpyxl: Creates Excel report.
+ - openpyxl: Creates Excel report.
 
-ElementTree: Creates structured XML report.
+ - ElementTree: Creates structured XML report.
 
-Screenshots: Provide evidence of test results.
+ - Screenshots: Provide evidence of test results.
 
-HTML Report: Human-readable test summary.
+ - HTML Report: Human-readable test summary.
 
 ## Use Cases
 QA/Testing portfolios.
