@@ -45,12 +45,12 @@ Screenshots
 Exit Criteria: Dashboard header must be visible.
 
 ## Testing Types Used
-Type	Purpose / Where Used
-Functional Testing	Check login process with valid data
-UI Testing	Ensure fields and buttons are interactable
-Assertion Testing	Validate title and dashboard text
-Regression Testing	Can be reused after updates
-Error Handling Test	Handles exceptions and captures screenshots
+ - Type	Purpose / Where Used
+ - Functional Testing	Check login process with valid data
+ - UI Testing	Ensure fields and buttons are interactable
+ - Assertion Testing	Validate title and dashboard text
+ - Regression Testing	Can be reused after updates
+ - Error Handling Test	Handles exceptions and captures screenshots
 
 ## Why Components Are Used
 Selenium: Automates browser tasks.
